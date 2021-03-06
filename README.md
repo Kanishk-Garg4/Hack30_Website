@@ -1,6 +1,7 @@
 # Hack30_Website
-If( Coffee || Pizza ) == 0; Team = Leave;
+If(Coffee == 0 || Pizza == 0) 
 
+Team = Leave;
 
 
 Team Members:
